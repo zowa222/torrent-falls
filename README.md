@@ -1,1 +1,1 @@
-![Something](../geo409-module-06-zowa222-master/KingdomCome.png)
+![Something](KingdomCome.png)
